@@ -13,15 +13,15 @@ intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        Qron Calc Macro for Confluence : Make Excel formulas available on Confluence's standard table.
+         Qron Calc Macro for Confluence : Make Excel formulas available on Confluence's standard table.
     - image: /img/coffee-gear.png
       text: >
-        Qron Search and Replace for Confluence : 
+        Qron Search and Replace for Confluence :
         Search and replace words in Confluence pages or blogs.
         'Qron Search and Replace for Confluence' has features to overcomes defects of other replacement addon.
-        - 'Confluence Storage Format' aware. You can replace words without breaking storage format.
-        - You can choose to replace an individual word you like.
-        - Available for Confluence administrators and Space administrators and general users.
+        1) 'Confluence Storage Format' aware. You can replace words without breaking storage format.
+        2) You can choose to replace an individual word you like.
+        3) Available for Confluence administrators and Space administrators and general users.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their

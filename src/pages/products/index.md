@@ -22,6 +22,12 @@ intro:
         - 'Confluence Storage Format' aware. You can replace words without breaking storage format.
         - You can choose to replace an individual word you like.
         - Available for Confluence administrators and Space administrators and general users.
+  heading: What we offer
+  description: >
+    Kaldi is the ultimate spot for coffee lovers who want to learn about their
+    java’s origin and support the farmers that grew it. We take coffee
+    production, roasting and brewing seriously and we’re glad to pass that
+    knowledge to anyone. This is an edit via identity...
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-

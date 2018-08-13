@@ -19,9 +19,9 @@ intro:
         Qron Search and Replace for Confluence :
         Search and replace words in Confluence pages or blogs.
         'Qron Search and Replace for Confluence' has features to overcomes defects of other replacement addon.
-        1) 'Confluence Storage Format' aware. You can replace words without breaking storage format.
-        2) You can choose to replace an individual word you like.
-        3) Available for Confluence administrators and Space administrators and general users.
+        - 'Confluence Storage Format' aware. You can replace words without breaking storage format.
+        - You can choose to replace an individual word you like.
+        - Available for Confluence administrators and Space administrators and general users.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -55,31 +55,7 @@ testimonials:
       stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: 
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
 ---

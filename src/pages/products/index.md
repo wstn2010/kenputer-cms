@@ -19,9 +19,6 @@ intro:
         Qron Search and Replace for Confluence :
         Search and replace words in Confluence pages or blogs.
         'Qron Search and Replace for Confluence' has features to overcomes defects of other replacement addon.
-        - 'Confluence Storage Format' aware. You can replace words without breaking storage format.
-        - You can choose to replace an individual word you like.
-        - Available for Confluence administrators and Space administrators and general users.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
